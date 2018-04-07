@@ -1,0 +1,11 @@
+C:\src\azureTest\bin\Debug\netcoreapp2.0\azureTest.deps.json
+C:\src\azureTest\bin\Debug\netcoreapp2.0\azureTest.runtimeconfig.json
+C:\src\azureTest\bin\Debug\netcoreapp2.0\azureTest.runtimeconfig.dev.json
+C:\src\azureTest\bin\Debug\netcoreapp2.0\azureTest.dll
+C:\src\azureTest\bin\Debug\netcoreapp2.0\azureTest.pdb
+C:\src\azureTest\obj\Debug\netcoreapp2.0\azureTest.csprojResolveAssemblyReference.cache
+C:\src\azureTest\obj\Debug\netcoreapp2.0\azureTest.csproj.CoreCompileInputs.cache
+C:\src\azureTest\obj\Debug\netcoreapp2.0\azureTest.AssemblyInfoInputs.cache
+C:\src\azureTest\obj\Debug\netcoreapp2.0\azureTest.AssemblyInfo.cs
+C:\src\azureTest\obj\Debug\netcoreapp2.0\azureTest.dll
+C:\src\azureTest\obj\Debug\netcoreapp2.0\azureTest.pdb
